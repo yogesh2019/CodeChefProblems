@@ -1,8 +1,6 @@
 package beginner;
 
 import java.util.*;
-import java.lang.*;
-import java.io.*;
 import java.math.BigInteger;
 public class _2_small_factorials {
     public static void main (String[] args) throws java.lang.Exception
@@ -17,6 +15,7 @@ public class _2_small_factorials {
 		    }
 		    System.out.println(mul);
 		}
+		in.close();
 		
 	}
 }
