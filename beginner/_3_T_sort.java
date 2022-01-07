@@ -1,3 +1,4 @@
+package beginner;
 import java.util.*;
 import java.io.*;
 

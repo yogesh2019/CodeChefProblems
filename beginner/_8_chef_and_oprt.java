@@ -1,3 +1,4 @@
+package beginner;
 import java.util.*;
 
 public class _8_chef_and_oprt
